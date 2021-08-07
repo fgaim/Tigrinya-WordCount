@@ -1,8 +1,8 @@
 # GeezLab Tigrinya Word Count
 
-This compilation of over `0.95 million` unique Tigrinya words and their frequencies. Data collected from varios text sources, including websites, books, newspapers and so on.
+This compilation of over `0.95 million` unique Tigrinya words and their frequencies. Data collected from various sources across the web, including news websites, blogs, books, newspapers, magazines, etc.
 
-The source documents were deduplicated and the text was preprocessed (normalized and tokenized) before generating the stats. The statistics provided is a good represenation of the language characteristics. Due to Tigrinya's rich morphology, the vocabulary is expected to grow as more text becomes available for analysis. Accordingly, this repository will be updated from time to time.
+The source documents were deduplicated and the text was preprocessed (normalized and tokenized) before generating the word count. The statistics provided is a good represenation of the language characteristics. Due to Tigrinya's rich morphology, the vocabulary is expected to grow even furthher as more text becomes available for analysis. This repository will be updated from time to time.
 
 
 ## Format
@@ -11,8 +11,8 @@ The source documents were deduplicated and the text was preprocessed (normalized
 
 
 ## Stats
- - Vocabulary: 565360
- - Source tokens: 12637126
+ - Vocabulary: 953670
+ - Source tokens: 35216657
  - Tigrinya word frequency and ranking distribution ![alt Zipf's](zipf.png)
 
 ## Uses
