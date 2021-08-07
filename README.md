@@ -1,4 +1,4 @@
-# GeezLab Tigrinya Word Count
+# Tigrinya Word Count
 
 This compilation of over `0.95 million` unique Tigrinya words and their frequencies. Data collected from various sources across the web, including news websites, blogs, books, newspapers, magazines, etc.
 
@@ -10,15 +10,22 @@ The source documents were deduplicated and the text was preprocessed (normalized
  * Each line formed as `<word>TAB<count>`
 
 
+## Tigrinya Stop-words
+
+A compilation of Tigrinya stop words can be found at `ti_stop_words.txt`.
+These are manually currated functional words with over 10k frequency in the data sources.
+
 ## Stats
  - Vocabulary: 953670
  - Source tokens: 35216657
- - Tigrinya word frequency and ranking distribution ![alt Zipf's](zipf.png)
+ - Stop words: 175
+ - See the Tigrinya word frequency and ranking distribution ![alt Zipf's](zipf.png)
+
 
 ## Uses
  * Licensed under the MIT License, it can be freely used for any purpose with proper attributions.
  * If you use this resource in a published work please cite as follows:
 
 ```
-GeezLab Tigrinya WordCount, https://github.com/fgaim/Tigrinya-WordCount
+Fitsum Gaim, 2017, Tigrinya WordCount, https://github.com/fgaim/Tigrinya-WordCount
 ```
