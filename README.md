@@ -18,13 +18,13 @@ These are manually currated functional words with over 10k frequency in the data
 ## Stats
  - Vocabulary: 953670
  - Source tokens: 35216657
- - Stop words: 175
+ - Stop words: 182
  - See the Tigrinya word frequency and ranking distribution ![alt Zipf's](zipf.png)
 
 
 ## Uses
  * Licensed under the MIT License, it can be freely used for any purpose with proper attributions.
- * If you use this resource in a published work please cite as follows:
+ * If you use this resource in a published work, please cite as follows:
 
 ```
 Fitsum Gaim, 2017, Tigrinya WordCount, https://github.com/fgaim/Tigrinya-WordCount
