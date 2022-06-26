@@ -1,5 +1,7 @@
 # Tigrinya Word Count
 
+[Tigrinya](https://en.wikipedia.org/wiki/Tigrinya_language) is a Semitic language spoken in Eritrea and northern Ethiopia, Tigray region.
+
 This is a compilation of over `1.15 million` unique Tigrinya words and their frequencies. The source documents were collected from various sources across the web, including newspapers, websites, blogs, books, magazines, etc.
 
 The source documents were deduplicated and the text was preprocessed (normalized and tokenized) before generating the word count.
@@ -8,6 +10,8 @@ The statistics provided is believed to be a good representation of the language 
 Due to Tigrinya's rich morphology, the vocabulary is expected to grow further as more text becomes available for analysis, and this repository will be updated, accordingly.
 
 > From version 3.0.0 onwards, content from social media such as comments on YouTube is not included in the estimation. This is due to the very high ratio of noise observed in those texts.
+
+> Word counts for the **Tigre** language can be cound <https://github.com/fgaim/Tigre-WordCount>
 
 
 ## Content Format
@@ -36,5 +40,5 @@ These are manually curated functional words with over 10k frequency in the data 
  - If you use this resource in a published work, please cite as follows:
 
 ```
-Fitsum Gaim, 2017, Tigrinya WordCount, https://github.com/fgaim/Tigrinya-WordCount
+Fitsum Gaim, 2017, Tigrinya Word Count, https://github.com/fgaim/Tigrinya-WordCount
 ```
